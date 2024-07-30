@@ -1,10 +1,9 @@
-import React from 'react';
 import Navigation from './Navigation';
 
 function Header() {
   return (
     <header>
-      <h1 className="header__title">Balalomba Barandao's Portfolio</h1>
+      <h1 className="header__title">Balalomba Barandao Portfolio</h1>
       <Navigation />
     </header>
   );

@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background: #f4f4f4;
+  }
+  
+  header _ title {
+    background: #333333;
+    color: #fff;
+    padding: 1rem 0;
+    text-align: center;
+  }
+
+  .portfolio {
+    display: flex;
+  }
+  
+  .project-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
