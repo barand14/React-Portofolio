@@ -4,25 +4,25 @@ function Portfolio() {
   const projects = [
     {
       title: 'MarvelVerse-Central',
-      image: "https://parade.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTk3MzM3ODU4NTU2NTY4Nzc1/marveldisney.jpg",
-      description:"Project 1 description",
+      image: "file:///C:/Users/bbara/Downloads/the-avengers.webp",
+      description:"A Marvel API to access marvel movies",
       deployedLink: 'https://skylerrhys.github.io/MarvelVerse-Central/',
       githubLink: 'https://github.com/SkylerRhys/MarvelVerse-Central'
     },
     
     {
         title:'Triviosa',
-        image: "imageurl",
-      description:"Project 2 description",
+        image: "https://thumbs.dreamstime.com/b/trivia-badge-white-background-trivia-badge-white-304082228.jpg",
+      description:"A Trivia API to generate questions by category",
         deployedLink:'https://drsaho.github.io/Triviosa/',
         githubLink: 'https://github.com/drsaho/Triviosa'
     },
     {
-      title:'project 3',
+      title:'PWA-text-editor',
       image: "imageurl",
-    description:"Project 3 description",
-      deployedLink:'https://drsaho.github.io/Triviosa/',
-      githubLink: 'https://github.com/drsaho/Triviosa'
+    description:"A text editor that runs in the browser",
+      deployedLink:'https://pwa-text-editor-udml.onrender.com',
+      githubLink: 'https://github.com/barand14/PWA-Text-Editor'
   },
   ];
 
