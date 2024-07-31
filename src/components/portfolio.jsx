@@ -19,7 +19,7 @@ function Portfolio() {
     },
     {
       title:'PWA-text-editor',
-      image: "imageurl",
+      image: "https://cdn.glitch.me/9d392eb2-e56d-4c4b-9cac-ad56f7192984%2Fvscodepwa.png",
     description:"A text editor that runs in the browser",
       deployedLink:'https://pwa-text-editor-udml.onrender.com',
       githubLink: 'https://github.com/barand14/PWA-Text-Editor'
