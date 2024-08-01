@@ -11,9 +11,9 @@ function Resume(){
             </ul>
             <ul>
                 <h3>Back End</h3>
-                <li>HTML</li>
-                <li>CSS</li>
-                <li>Javascript</li>
+                <li>Node.js</li>
+                <li>Java</li>
+                <li>...</li>
             </ul>
         </div>
     )

@@ -4,7 +4,7 @@ function Portfolio() {
   const projects = [
     {
       title: 'MarvelVerse-Central',
-      image: "file:///C:/Users/bbara/Downloads/the-avengers.webp",
+      image: "https://media.gq.com/photos/5a1c50a3abd2561a4798ccf9/16:9/w_1600,c_limit/the-avengers-movies.jpg",
       description:"A Marvel API to access marvel movies",
       deployedLink: 'https://skylerrhys.github.io/MarvelVerse-Central/',
       githubLink: 'https://github.com/SkylerRhys/MarvelVerse-Central'
