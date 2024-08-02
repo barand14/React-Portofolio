@@ -2,7 +2,7 @@ function AboutMe() {
   return (
     <section>
       <h2>About Me</h2>
-      <img src="./images/profilepicture.jpg" alt="Balalomba Barandao" />
+      <img src="../assaets/Balalomba.jpg" alt="Balalomba Barandao" />
       <p>Extremely down to earth, I try my best to get along with people or most people, to be concise.
          I am a big fan of sports in general and mos paticulary, soccer.
          I also love science and technology which have led my curiosity to this bootcamp. With no coding
