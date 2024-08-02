@@ -1,7 +1,8 @@
 import React from 'react';
-import Header from './components/header.js';
-import AboutMe from './components/aboutMe.js';
-import Portfolio from './components/Portfolio';
+import Header from './components/header.jsx';
+import AboutMe from './components/aboutMe.jsx';
+import Portfolio from './components/portfolio.jsx';
+import Portfolio from './components/resume.jsx';
 import Footer from './Footer';
 
 function App() {
@@ -10,6 +11,7 @@ function App() {
       <Header />
       <AboutMe />
       <Portfolio />
+      <Resume/>
       <Footer />
     </div>
   );

@@ -13,7 +13,7 @@ function Resume(){
                 <h3>Back End</h3>
                 <li>Node.js</li>
                 <li>Java</li>
-                <li>...</li>
+                <li> SQL</li>
             </ul>
         </div>
     )
