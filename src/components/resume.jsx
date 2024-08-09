@@ -1,4 +1,4 @@
-import resume from "../assets/example.png"
+import resume from "../assets/DocumentBal.txt"
 function Resume(){
     return(
         <div>
